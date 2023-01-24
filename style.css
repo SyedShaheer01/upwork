@@ -242,6 +242,7 @@ margin-left: 100px;
     display: flex;
     /* overflow: hidden; */
     /* border-collapse: collapse; */
+    margin-bottom: 20px;
 }
 .background-color{
     background-color: #13544e;
